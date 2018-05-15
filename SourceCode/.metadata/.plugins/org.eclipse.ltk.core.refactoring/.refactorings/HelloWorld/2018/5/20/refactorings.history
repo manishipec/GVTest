@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Module Configuration Property from &apos;newProperty&apos; to &apos;Name&apos;" description="Rename Module Configuration Property from &apos;newProperty&apos; to &apos;Name&apos;" flags="7" id="com.tibco.bw.core.design.refactoring.rename.moduleproperty" stamp="1526347255598"/>
+</session>
